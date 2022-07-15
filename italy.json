@@ -1,0 +1,30 @@
+{
+   "android_play_store_link":"https://play.google.com/store/apps/details?id=com.antspace.stickers.basketball",
+   "ios_app_store_link":"",
+   "sticker_packs":[
+      {
+         "identifier":"olimpiamilan2022",
+         "name":"Olimpia Milan 2022",
+         "animated_sticker_pack":false,
+         "stickers":"30"
+      },
+      {
+         "identifier":"sassari2022",
+         "name":"Sassari 2022",
+         "animated_sticker_pack":false,
+         "stickers":"29"
+      },
+      {
+         "identifier":"tortona2022",
+         "name":"Tortona 2022",
+         "animated_sticker_pack":false,
+         "stickers":"26"
+      },
+      {
+         "identifier":"virtusbolonia2022",
+         "name":"Virtus Bolonia 2022",
+         "animated_sticker_pack":false,
+         "stickers":"30"
+      }
+   ]
+}

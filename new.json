@@ -1,0 +1,90 @@
+{
+   "android_play_store_link":"https://play.google.com/store/apps/details?id=com.antspace.stickers.basketball",
+   "ios_app_store_link":"",
+   "sticker_packs":[
+      {
+         "identifier":"dijon2022",
+         "name":"Dijon 2022",
+         "animated_sticker_pack":false,
+         "stickers":"29"
+      },
+      {
+         "identifier":"lyonvilleurbanne2022",
+         "name":"Lyon Villeurbanne 2022",
+         "animated_sticker_pack":false,
+         "stickers":"30"
+      },
+      {
+         "identifier":"monaco2022",
+         "name":"Monaco 2022",
+         "animated_sticker_pack":false,
+         "stickers":"30"
+      },
+      {
+         "identifier":"pauorthez2022",
+         "name":"Pau Orthez 2022",
+         "animated_sticker_pack":false,
+         "stickers":"30"
+      },
+      {
+         "identifier":"olympiacos2022",
+         "name":"Olympiacos 2022",
+         "animated_sticker_pack":false,
+         "stickers":"30"
+      },
+      {
+         "identifier":"panathinaikos2022",
+         "name":"Panathinaikos 2022",
+         "animated_sticker_pack":false,
+         "stickers":"30"
+      },
+            {
+         "identifier":"barcelona2022",
+         "name":"Barcelona 2022",
+         "animated_sticker_pack":false,
+         "stickers":"30"
+      },
+      {
+         "identifier":"baskonia2022",
+         "name":"Baskonia 2022",
+         "animated_sticker_pack":false,
+         "stickers":"30"
+      },
+      {
+         "identifier":"joventutbadalona2022",
+         "name":"Joventut Badalona 2022",
+         "animated_sticker_pack":false,
+         "stickers":"30"
+      },
+      {
+         "identifier":"realmadrid2022",
+         "name":"Real Madrid 2022",
+         "animated_sticker_pack":false,
+         "stickers":"30"
+      },
+      {
+         "identifier":"olimpiamilan2022",
+         "name":"Olimpia Milan 2022",
+         "animated_sticker_pack":false,
+         "stickers":"30"
+      },
+      {
+         "identifier":"sassari2022",
+         "name":"Sassari 2022",
+         "animated_sticker_pack":false,
+         "stickers":"29"
+      },
+      {
+         "identifier":"tortona2022",
+         "name":"Tortona 2022",
+         "animated_sticker_pack":false,
+         "stickers":"26"
+      },
+      {
+         "identifier":"virtusbolonia2022",
+         "name":"Virtus Bolonia 2022",
+         "animated_sticker_pack":false,
+         "stickers":"30"
+      }
+   ]
+}
