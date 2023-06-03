@@ -3,6 +3,48 @@
    "ios_app_store_link":"",
    "sticker_packs":[
       {
+         "identifier":"denvernuggets1",
+         "name":"Denver Nuggets",
+         "animated_sticker_pack":false,
+         "stickers":"15"
+      },
+      {
+         "identifier":"miamiheat1",
+         "name":"Miami Heat",
+         "animated_sticker_pack":false,
+         "stickers":"10"
+      },
+      {
+         "identifier":"nikolajokic1",
+         "name":"Nikola Jokic",
+         "animated_sticker_pack":false,
+         "stickers":"15"
+      },
+      {
+         "identifier":"jamalmurray1",
+         "name":"Jamal Murray",
+         "animated_sticker_pack":false,
+         "stickers":"15"
+      },
+      {
+         "identifier":"gabevincent1",
+         "name":"Gabe Vincent",
+         "animated_sticker_pack":false,
+         "stickers":"15"
+      },
+      {
+         "identifier":"bamadebayo1",
+         "name":"Bam Adebayo",
+         "animated_sticker_pack":false,
+         "stickers":"15"
+      },
+      {
+         "identifier":"nbaa1",
+         "name":"NBA Animated (1)",
+         "animated_sticker_pack":true,
+         "stickers":"21"
+      },
+      {
          "identifier":"lebronjames1",
          "name":"LeBron James",
          "animated_sticker_pack":false,
