@@ -4,25 +4,25 @@
    "sticker_packs":[
       {
          "identifier":"dijon2022",
-         "name":"Dijon 2022",
+         "name":"Dijon",
          "animated_sticker_pack":false,
          "stickers":"29"
       },
       {
          "identifier":"lyonvilleurbanne2022",
-         "name":"Lyon Villeurbanne 2022",
+         "name":"Lyon Villeurbanne",
          "animated_sticker_pack":false,
          "stickers":"30"
       },
       {
          "identifier":"monaco2022",
-         "name":"Monaco 2022",
+         "name":"Monaco",
          "animated_sticker_pack":false,
          "stickers":"30"
       },
       {
          "identifier":"pauorthez2022",
-         "name":"Pau Orthez 2022",
+         "name":"Pau Orthez",
          "animated_sticker_pack":false,
          "stickers":"30"
       }
