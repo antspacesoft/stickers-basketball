@@ -3,6 +3,30 @@
    "ios_app_store_link":"",
    "sticker_packs":[
       {
+         "identifier":"dzanamusa1",
+         "name":"Dzana Musa (1)",
+         "animated_sticker_pack":false,
+         "stickers":"15"
+      },
+      {
+         "identifier":"dzanamusa2",
+         "name":"Dzana Musa (2)",
+         "animated_sticker_pack":false,
+         "stickers":"15"
+      },
+      {
+         "identifier":"nikolamirotic1",
+         "name":"Nikola Mirotic (1)",
+         "animated_sticker_pack":false,
+         "stickers":"15"
+      },
+      {
+         "identifier":"nikolamirotic2",
+         "name":"Nikola Mirotic (2)",
+         "animated_sticker_pack":false,
+         "stickers":"15"
+      },
+      {
          "identifier":"nikolajokic1",
          "name":"Nikola Jokic",
          "animated_sticker_pack":false,

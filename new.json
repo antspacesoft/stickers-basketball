@@ -3,6 +3,48 @@
    "ios_app_store_link":"",
    "sticker_packs":[
       {
+         "identifier":"dzanamusa1",
+         "name":"Dzana Musa (1)",
+         "animated_sticker_pack":false,
+         "stickers":"15"
+      },
+      {
+         "identifier":"dzanamusa2",
+         "name":"Dzana Musa (2)",
+         "animated_sticker_pack":false,
+         "stickers":"15"
+      },
+      {
+         "identifier":"nikolamirotic1",
+         "name":"Nikola Mirotic (1)",
+         "animated_sticker_pack":false,
+         "stickers":"15"
+      },
+      {
+         "identifier":"nikolamirotic2",
+         "name":"Nikola Mirotic (2)",
+         "animated_sticker_pack":false,
+         "stickers":"15"
+      },
+      {
+         "identifier":"partizan2023",
+         "name":"Partizan 2023",
+         "animated_sticker_pack":false,
+         "stickers":"30"
+      },
+      {
+         "identifier":"realmadrid2023",
+         "name":"Real Madrid 2023",
+         "animated_sticker_pack":false,
+         "stickers":"30"
+      },
+      {
+         "identifier":"barcelona2023",
+         "name":"Barcelona 2023",
+         "animated_sticker_pack":false,
+         "stickers":"24"
+      },
+      {
          "identifier":"denvernuggets1",
          "name":"Denver Nuggets",
          "animated_sticker_pack":false,
@@ -154,7 +196,7 @@
       },
             {
          "identifier":"barcelona2022",
-         "name":"Barcelona",
+         "name":"Barcelona 2022",
          "animated_sticker_pack":false,
          "stickers":"30"
       },
@@ -172,7 +214,7 @@
       },
       {
          "identifier":"realmadrid2022",
-         "name":"Real Madrid",
+         "name":"Real Madrid 2022",
          "animated_sticker_pack":false,
          "stickers":"30"
       },
