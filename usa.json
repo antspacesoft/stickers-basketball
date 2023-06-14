@@ -3,6 +3,18 @@
    "ios_app_store_link":"",
    "sticker_packs":[
       {
+         "identifier":"nba2223w1",
+         "name":"Nuggets Champions 22-34 (1)",
+         "animated_sticker_pack":false,
+         "stickers":"25"
+      },
+      {
+         "identifier":"nba2223w1",
+         "name":"Nuggets Champions 22-34 (2)",
+         "animated_sticker_pack":false,
+         "stickers":"25"
+      },
+      {
          "identifier":"denvernuggets1",
          "name":"Denver Nuggets",
          "animated_sticker_pack":false,
