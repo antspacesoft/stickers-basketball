@@ -3,6 +3,18 @@
    "ios_app_store_link":"",
    "sticker_packs":[
       {
+         "identifier":"worldcup2023cf3",
+         "name":"Germany vs Latvia",
+         "animated_sticker_pack":false,
+         "stickers":"30"
+      },
+      {
+         "identifier":"worldcup2023cf4",
+         "name":"Canada vs Slovenia",
+         "animated_sticker_pack":false,
+         "stickers":"30"
+      },
+      {
          "identifier":"worldcup2023cf1",
          "name":"Italy vs USA",
          "animated_sticker_pack":false,
