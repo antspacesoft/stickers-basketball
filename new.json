@@ -3,6 +3,12 @@
    "ios_app_store_link":"",
    "sticker_packs":[
       {
+         "identifier":"worldcup2023sf2",
+         "name":"Serbia vs Canada",
+         "animated_sticker_pack":false,
+         "stickers":"27"
+      },
+      {
          "identifier":"worldcup2023sf1",
          "name":"Germany vs USA",
          "animated_sticker_pack":false,
