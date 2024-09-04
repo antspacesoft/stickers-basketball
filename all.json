@@ -1,0 +1,306 @@
+{
+   "android_play_store_link":"https://play.google.com/store/apps/details?id=com.antspace.stickers.basketball",
+   "ios_app_store_link":"",
+   "sticker_packs":[
+      {
+         "identifier":"worldcup2023f1",
+         "name":"Germany vs Serbia",
+         "animated_sticker_pack":false,
+         "stickers":"30"
+      },
+      {
+         "identifier":"worldcup2023tp1",
+         "name":"Canada vs USA",
+         "animated_sticker_pack":false,
+         "stickers":"20"
+      },
+      {
+         "identifier":"worldcup2023sf2",
+         "name":"Serbia vs Canada",
+         "animated_sticker_pack":false,
+         "stickers":"27"
+      },
+      {
+         "identifier":"worldcup2023sf1",
+         "name":"Germany vs USA",
+         "animated_sticker_pack":false,
+         "stickers":"18"
+      },
+      {
+         "identifier":"worldcup2023cf3",
+         "name":"Germany vs Latvia",
+         "animated_sticker_pack":false,
+         "stickers":"30"
+      },
+      {
+         "identifier":"worldcup2023cf4",
+         "name":"Canada vs Slovenia",
+         "animated_sticker_pack":false,
+         "stickers":"30"
+      },
+      {
+         "identifier":"worldcup2023cf1",
+         "name":"Italy vs USA",
+         "animated_sticker_pack":false,
+         "stickers":"30"
+      },
+      {
+         "identifier":"worldcup2023cf2",
+         "name":"Lithuania vs Serbia",
+         "animated_sticker_pack":false,
+         "stickers":"30"
+      },
+      {
+         "identifier":"nba2223w1",
+         "name":"Nuggets Champions 22-23 (1)",
+         "animated_sticker_pack":false,
+         "stickers":"25"
+      },
+      {
+         "identifier":"nba2223w2",
+         "name":"Nuggets Champions 22-23 (2)",
+         "animated_sticker_pack":false,
+         "stickers":"25"
+      },
+      {
+         "identifier":"dzanamusa1",
+         "name":"Dzana Musa (1)",
+         "animated_sticker_pack":false,
+         "stickers":"15"
+      },
+      {
+         "identifier":"dzanamusa2",
+         "name":"Dzana Musa (2)",
+         "animated_sticker_pack":false,
+         "stickers":"15"
+      },
+      {
+         "identifier":"nikolamirotic1",
+         "name":"Nikola Mirotic (1)",
+         "animated_sticker_pack":false,
+         "stickers":"15"
+      },
+      {
+         "identifier":"nikolamirotic2",
+         "name":"Nikola Mirotic (2)",
+         "animated_sticker_pack":false,
+         "stickers":"15"
+      },
+      {
+         "identifier":"partizan2023",
+         "name":"Partizan 2023",
+         "animated_sticker_pack":false,
+         "stickers":"30"
+      },
+      {
+         "identifier":"realmadrid2023",
+         "name":"Real Madrid 2023",
+         "animated_sticker_pack":false,
+         "stickers":"30"
+      },
+      {
+         "identifier":"barcelona2023",
+         "name":"Barcelona 2023",
+         "animated_sticker_pack":false,
+         "stickers":"24"
+      },
+      {
+         "identifier":"denvernuggets1",
+         "name":"Denver Nuggets",
+         "animated_sticker_pack":false,
+         "stickers":"15"
+      },
+      {
+         "identifier":"miamiheat1",
+         "name":"Miami Heat",
+         "animated_sticker_pack":false,
+         "stickers":"10"
+      },
+      {
+         "identifier":"nikolajokic1",
+         "name":"Nikola Jokic",
+         "animated_sticker_pack":false,
+         "stickers":"15"
+      },
+      {
+         "identifier":"jamalmurray1",
+         "name":"Jamal Murray",
+         "animated_sticker_pack":false,
+         "stickers":"15"
+      },
+      {
+         "identifier":"gabevincent1",
+         "name":"Gabe Vincent",
+         "animated_sticker_pack":false,
+         "stickers":"15"
+      },
+      {
+         "identifier":"bamadebayo1",
+         "name":"Bam Adebayo",
+         "animated_sticker_pack":false,
+         "stickers":"15"
+      },
+      {
+         "identifier":"nbaa1",
+         "name":"NBA Animated (1)",
+         "animated_sticker_pack":true,
+         "stickers":"21"
+      },
+      {
+         "identifier":"euroleague2223w1",
+         "name":"Real Madrid Champion 22-23 (1)",
+         "animated_sticker_pack":false,
+         "stickers":"30"
+      },
+      {
+         "identifier":"euroleague2223w2",
+         "name":"Real Madrid Champion 22-23 (2)",
+         "animated_sticker_pack":false,
+         "stickers":"30"
+      },
+      {
+         "identifier":"lebronjames1",
+         "name":"LeBron James",
+         "animated_sticker_pack":false,
+         "stickers":"30"
+      },
+      {
+         "identifier":"stephencurry1",
+         "name":"Stephen Curry",
+         "animated_sticker_pack":false,
+         "stickers":"30"
+      },
+      {
+         "identifier":"bostonceltics2022",
+         "name":"Boston Celtics",
+         "animated_sticker_pack":false,
+         "stickers":"30"
+      },
+      {
+         "identifier":"dallasmavericks2022",
+         "name":"Dallas Mavericks",
+         "animated_sticker_pack":false,
+         "stickers":"30"
+      },
+      {
+         "identifier":"goldenstatewarriors2022",
+         "name":"Golden State Warriors",
+         "animated_sticker_pack":false,
+         "stickers":"29"
+      },
+      {
+         "identifier":"miamiheat2022",
+         "name":"Miami Heat",
+         "animated_sticker_pack":false,
+         "stickers":"30"
+      },
+      {
+         "identifier":"anadoluefes2022",
+         "name":"Anadolu Efes",
+         "animated_sticker_pack":false,
+         "stickers":"30"
+      },
+      {
+         "identifier":"darussafaka2022",
+         "name":"Darussafaka",
+         "animated_sticker_pack":false,
+         "stickers":"26"
+      },
+      {
+         "identifier":"fenerbahce2022",
+         "name":"Fenerbahce",
+         "animated_sticker_pack":false,
+         "stickers":"30"
+      },
+      {
+         "identifier":"galatasaray2022",
+         "name":"Galatasaray",
+         "animated_sticker_pack":false,
+         "stickers":"23"
+      },
+      {
+         "identifier":"dijon2022",
+         "name":"Dijon",
+         "animated_sticker_pack":false,
+         "stickers":"29"
+      },
+      {
+         "identifier":"lyonvilleurbanne2022",
+         "name":"Lyon Villeurbanne",
+         "animated_sticker_pack":false,
+         "stickers":"30"
+      },
+      {
+         "identifier":"monaco2022",
+         "name":"Monaco",
+         "animated_sticker_pack":false,
+         "stickers":"30"
+      },
+      {
+         "identifier":"pauorthez2022",
+         "name":"Pau Orthez",
+         "animated_sticker_pack":false,
+         "stickers":"30"
+      },
+      {
+         "identifier":"olympiacos2022",
+         "name":"Olympiacos",
+         "animated_sticker_pack":false,
+         "stickers":"30"
+      },
+      {
+         "identifier":"panathinaikos2022",
+         "name":"Panathinaikos",
+         "animated_sticker_pack":false,
+         "stickers":"30"
+      },
+            {
+         "identifier":"barcelona2022",
+         "name":"Barcelona 2022",
+         "animated_sticker_pack":false,
+         "stickers":"30"
+      },
+      {
+         "identifier":"baskonia2022",
+         "name":"Baskonia",
+         "animated_sticker_pack":false,
+         "stickers":"30"
+      },
+      {
+         "identifier":"joventutbadalona2022",
+         "name":"Joventut Badalona",
+         "animated_sticker_pack":false,
+         "stickers":"30"
+      },
+      {
+         "identifier":"realmadrid2022",
+         "name":"Real Madrid 2022",
+         "animated_sticker_pack":false,
+         "stickers":"30"
+      },
+      {
+         "identifier":"olimpiamilan2022",
+         "name":"Olimpia Milan",
+         "animated_sticker_pack":false,
+         "stickers":"30"
+      },
+      {
+         "identifier":"sassari2022",
+         "name":"Sassari",
+         "animated_sticker_pack":false,
+         "stickers":"29"
+      },
+      {
+         "identifier":"tortona2022",
+         "name":"Tortona",
+         "animated_sticker_pack":false,
+         "stickers":"26"
+      },
+      {
+         "identifier":"virtusbolonia2022",
+         "name":"Virtus Bolonia",
+         "animated_sticker_pack":false,
+         "stickers":"30"
+      }
+   ]
+}
